@@ -1,9 +1,18 @@
-Hallo und Willkommen, 👋
+# Hallo und herzlich willkommen! 👋  
 
-Mein Name ist Sebastian Meine und dies ist mein Privater Github Account, für meine Projekte. Hier findet sich von Kleinen Taschenrechnern bis Webapplications alles, was ich so umsetzte um mich in den verschiedenen bereichen weiterzubilden. Derzeit ist der Account noch im aufbau, da er sehr lange nicht gepflegt wurde, dies wird sich aber in Zukunft ändern.
+Mein Name ist **Sebastian Meine**, und dies ist mein privater GitHub-Account, auf dem ich meine Projekte teile.  
+Hier findest du alles – von kleinen Taschenrechnern bis hin zu komplexeren Webanwendungen.  
+Jedes meiner Projekte dient dazu, mein Wissen in verschiedenen Bereichen der Softwareentwicklung zu erweitern und neue Technologien auszuprobieren.  
 
-FAQ:<br>
-  Warum der name "EsstBananeImEi" ?<br>
-    - Nach langem suchen eines names für mein Account, habe ich mich für ein Anagramm aus meinem Vor -/ und Nachnamen entschieden.
+Momentan befindet sich dieser Account noch im Aufbau, da er lange nicht aktiv gepflegt wurde.  
+Doch das wird sich in Zukunft ändern – es gibt viele spannende Projekte, die ich hier noch veröffentlichen möchte! 🚀  
 
-Ich wünsche Viel Spaß beim umsehen 👀
+## 📌 FAQ  
+### Warum der Name „EsstBananeImEi“?  
+Nach langem Überlegen, welchen Namen ich für meinen Account wählen soll,  
+habe ich mich für ein **Anagramm** aus meinem Vor- und Nachnamen entschieden.  
+So entstand *„EsstBananeImEi“* – ein kreativer und einzigartiger Name mit persönlichem Bezug!  
+
+---
+
+🛠 Viel Spaß beim Stöbern und Entdecken! 👀  
